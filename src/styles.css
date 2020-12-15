@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: grey;
+}
+
+input {
+  width: 80%;
+  padding: 1rem;
+}
+
+span {
+  font-size: 2rem;
+  padding: 1rem;
+  cursor: pointer;
+}
+
+h3 {
+  font-size: 2rem;
+}
